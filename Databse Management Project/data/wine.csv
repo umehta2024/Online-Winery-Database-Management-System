@@ -1,0 +1,101 @@
+wineid,name,age,type,price,alcohol_percentage,popularity
+123,Dominus Estate,1873,Red Wine,269,17,97
+124,Chateau Pichon Longueville Lalande,1921,Red Wine,198,17,98
+125,Heitz,1862,Red Wine,250,13,95
+126,Merum Priorati,1943,Red Wine,49,14,95
+127,Le Chiuse,1998,White Wine,99,13,98
+128,Louis Latour,1940,White Wine,200,16,95
+129,Chateau Leoville Poyferre,2005,Rose Wine,104,15,97
+130,Cavallotto,1924,White Wine,90,17,95
+131,Salvestrin,1998,Red Wine,80,17,95
+132,Chateau de Nalys,1918,Sparkling Wine,105,13,95
+133,Aubert,1924,Sparkling Wine,85,15,97
+134,Poggio Landi,1917,Rose Wine,59,15,97
+135,Chateau Carbonnieux,1985,White Wine,44,16,94
+136,Alexana,1978,Red Wine,55,17,94
+137,Giuseppe Nada,1897,Red Wine,43,13,95
+138,Calcareous,1904,Dessert Wine,56,13,94
+139,Talenti,1899,Fortified Wine,50,16,95
+140,Burn Cottage,1995,Dessert Wine,65,16,95
+141,Cayuse,1944,Dessert Wine,92,16,96
+142,Badia a Coltibuono,1960,White Wine,22,15,93
+143,Luca,1980,Fortified Wine,35,13,93
+144,Arterberry Maresh,1893,Red Wine,39,16,93
+145,John Duval,1881,White Wine,40,16,94
+146,Ridge,1978,Rose Wine,45,16,93
+147,Wittmann,1991,Dessert Wine,36,16,94
+148,Salcheto,1966,Dessert Wine,36,13,94
+149,Evening Land,1952,Sparkling Wine,35,17,93
+150,Three Sticks,1968,Fortified Wine,65,14,95
+151,Sparkman,1939,Sparkling Wine,32,15,93
+152,Cantina del Pino,1997,Rose Wine,45,14,94
+153,Filipa Pato,1908,Rose Wine,29,17,93
+154,Massican,1875,White Wine,32,14,93
+155,Ant Moore,1879,Red Wine,17,17,92
+156,Zena Crown Vineyard,1995,Red Wine,75,15,95
+157,Chateau de Vaudieu,1984,White Wine,49,13,94
+158,Bodegas Beronia,1964,Red Wine,30,14,92
+159,Rochioli,1947,Red Wine,64,14,94
+160,Pio Cesare,2002,White Wine,27,13,92
+161,Vermillion,1909,Fortified Wine,35,13,92
+162,Mauro Molino,1953,Fortified Wine,30,13,92
+163,Rapaura Springs,1878,Fortified Wine,13,14,91
+164,Chateau Ste. Michelle-Dr. Loosen,1916,Rose Wine,20,17,91
+165,Carol Shelton,1858,White Wine,19,17,91
+166,Tenute Sella & Mosca,1964,Sparkling Wine,18,16,90
+167,Quinta do Noval,1983,Sparkling Wine,100,14,97
+168,Rocca di Montegrossi,1893,Rose Wine,75,15,95
+169,MacDonald,1996,White Wine,185,15,98
+170,Domaine de Villaine,1899,White Wine,42,15,92
+171,Hickinbotham,1892,Red Wine,75,17,95
+172,Schloss Gobelsburg,1920,Red Wine,19,15,91
+173,Alois Lageder,1864,Sparkling Wine,16,16,90
+174,Snowden,2002,Dessert Wine,90,15,95
+175,Clos de los Siete,1877,Dessert Wine,20,14,90
+176,Schloss Lieser,1969,Red Wine,31,17,95
+177,Philippe Viallet,1934,Dessert Wine,14,13,90
+178,Tedeschi,1879,Fortified Wine,60,15,93
+179,Bodegas Pazo de Barrantes,1967,Sparkling Wine,21,14,91
+180,Chehalem,1962,Sparkling Wine,20,17,91
+181,Monte del Freir,2011,Rose Wine,22,16,90
+182,Force Majeure,1985,Rose Wine,85,16,95
+183,Ben Haines,1974,Sparkling Wine,35,16,94
+184,Stephane Ogier,1875,Dessert Wine,23,17,91
+185,G.B. Burlotto,2013,Sparkling Wine,100,14,97
+186,Concha y Toro,1983,Sparkling Wine,70,14,94
+187,Bodegas Ateca,1956,Red Wine,45,17,93
+188,De Martino,1885,White Wine,20,15,91
+189,Bastianich,1954,Red Wine,18,17,90
+190,Etxaniz Txakolina,2006,White Wine,20,16,90
+191,Domaine du Clos du Fief,1994,White Wine,25,13,91
+192,Domaine Chandon,1929,Sparkling Wine,19,17,90
+193,Feudo Montoni,1890,Dessert Wine,22,17,90
+194,Rivers-Marie,1864,Dessert Wine,110,17,95
+195,55 Malbec,2000,Fortified Wine,25,15,91
+196,Thompson Estate,1874,Fortified Wine,30,14,91
+197,Salvatore Molettieri,2006,Red Wine,51,14,94
+198,Louis Roederer,1987,Red Wine,63,14,92
+199,Marcassin,1903,Sparkling Wine,150,15,95
+200,Bodega Matarromera,1938,Rose Wine,35,16,91
+201,Saxon Brown,1889,Sparkling Wine,60,15,94
+202,Alta Vista,1934,Red Wine,22,14,90
+203,Brandlin,1898,White Wine,90,15,93
+204,Masottina,2011,Fortified Wine,28,14,90
+205,Graeme & Julie Bott,1884,Dessert Wine,65,17,93
+206,Chalk Hill,1904,Dessert Wine,26,13,91
+207,Louis Jadot,1919,Fortified Wine,95,13,93
+208,Boundary Breaks,1978,Fortified Wine,20,15,90
+209,Chateau Pradeaux,1999,Dessert Wine,24,16,91
+210,Kinsman Eades,1856,Sparkling Wine,195,13,96
+211,Luis Seabra,1956,Red Wine,27,14,91
+212,Graci,1899,White Wine,33,17,91
+213,Bodegas Emilio Moro,1924,White Wine,28,14,92
+214,De Wetshof,1996,White Wine,24,17,91
+215,Guido Berlucchi,1880,Rose Wine,36,14,91
+216,Chateau Berliquet,1934,Sparkling Wine,65,17,92
+217,Colli di Lapio,1966,Red Wine,28,15,91
+218,Detert,1966,White Wine,95,14,92
+219,Domaine Guiberteau,1857,White Wine,27,13,91
+220,Faust,1967,Sparkling Wine,125,15,93
+221,Krug,1985,Dessert Wine,309,14,99
+222,Kamen,2011,Dessert Wine,155,17,94

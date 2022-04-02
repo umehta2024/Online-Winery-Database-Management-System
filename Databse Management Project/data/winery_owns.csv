@@ -1,0 +1,82 @@
+wineryid,name,capacity,area,address,license
+1,Beckstoffer To Kalon Vineyard,17,7316,United States of America,WLC-736-873
+2,Bien Nacido Vineyard,21,8244,United States of America,WLC-382-382
+3,Opus One,21,8904,United States of America,WLA-372-930
+4,Savoy Vineyard,17,8527,United States of America,WLA-334-596
+5,Hyde Vineyard,17,8697,United States of America,WLA-998-404
+6,Hirsch Vineyard,18,7326,United States of America,WLA-384-811
+7,Benmarl Winery,18,5474,United States of America,WLA-384-272
+8,Red Newt Cellars,22,9138,United States of America,WLA-341-222
+9,Standing Stone Vineyards,24,7092,United States of America,WLC-394-555
+10,Bodega Carmelo Patti,15,3507,Argentina,WLB-486-586
+11,Bodegas Callia,20,7568,Argentina,WLB-445-322
+12,Catena Zapata,20,7898,Argentina,WLD-484-422
+13,Familia Schroeder,23,5474,Argentina,WLC-334-484
+14,O. Fournier,16,4894,Argentina,WLB-474-473
+15,Familia Zuccardi,18,4422,Argentina,WLA-955-483
+16,Pascual Toso,21,10073,Argentina,WLB-321-343
+17,Pulenta Estate,20,5977,Argentina,WLC-432-322
+18,Bodegas Lopez,18,9520,Argentina,WLC-422-452
+19,Boydell's,17,9249,Australia,WLD-543-231
+20,Tahbilk Winery,19,7329,Australia,WLD-432-422
+21,Hahndorf Hill,19,8992,Australia,WLA-442-423
+22,Bay of Fires,20,9566,Australia,WLB-432-221
+23,Helm Wines,22,7200,Australia,WLC-098-423
+24,Vina Undurraga,22,7287,Chile,WLC-942-492
+25,Vina Santa Carolina,20,4142,Chile,WLB-481-383
+26,Estancia El Cuadro,22,6093,Chile,WLA-311-532
+27,Clos Apalta Winery,16,5744,Chile,WLB-373-282
+28,Casas del Toqui,23,5458,Chile,WLC-373-382
+29,Concha y Toro,23,10179,Chile,WLB-373-211
+30,Cousino Macul,19,4971,Chile,WLC-373-392
+31,Viu Manent,16,6775,Chile,WLC-373-485
+32,Vina Errazuriz,18,8651,Chile,WLA-374-382
+33,Silver Heights Vineyard,18,9437,China,WLB-463-273
+34,Grace Vineyard,13,7432,China,WLB-374-382
+35,Chateau Sun God Great Wall,16,5163,China,WLC-384-287
+36,Helan Qingxue Vineyard,14,9093,China,WLC-272-383
+37,Kanaan Winery,16,7454,China,WLB-372-281
+38,Chateau Saflam,16,8578,China,WLA-383-384
+39,"Chateau de l'Engarran, Laverune",13,3529,France,WLC-382-263
+40,Cos d'Estournel,23,7672,France,WLA-273-485
+41,Chateau Lafite-Rothschild,18,4417,France,WLD-273-482
+42,Maison Ruinart,22,8187,France,WLE-373-272
+43,Chateau des Vaults,19,6045,France,WLE-372-383
+44,Chateau du Clos de Vougeot,24,4926,France,WLB-385-684
+45,Domaine Virgile Joly,17,6245,France,WLA-283-484
+46,Domaine Cazes,20,4193,France,WLC-384-272
+47,VignobleKlur,14,4328,France,WLC-272-382
+48,Maltoff,22,5429,France,WLA-272-494
+49,Chateau Thieuley,24,6807,France,WLE-372-448
+50,Domaine de Mourchon,23,3833,France,WLC-009-382
+51,Girard-Madoux,23,4283,France,WLC-304-482
+52,Domaine de la Croix,22,7972,France,WLC-382-322
+53,Champagne Tarlant,20,8315,France,WLD-283-383
+54,Caves Jean Bourdy,14,4499,France,WLE-282-383
+55,The House of Remy Martin,16,4834,France,WLE-282-002
+56,Scharzhofberg,21,8692,Germany,WLD-272-383
+57,Bremmer Calmont,19,5950,Germany,WLA-282-444
+58,Bopparder Hamm,23,8169,Germany,WLB-382-282
+59,Bacharacher Posten,15,10092,Germany,WLC-372-966
+60,Kupfergrube,22,4162,Germany,WLC-292-484
+61,Berg Schlossberg,21,9756,Germany,WLA-282-093
+62,Vineyard Rosengarten,20,10063,Germany,WLB-389-292
+63,Marchesi di Barolo,13,9058,Italy,WLA-271-282
+64,Antica Cascina dei Conti di Roero,19,8218,Italy,WLB-282-399
+65,Redaelli de Zinis,13,4629,Italy,WLC-383-282
+66,Marchesi De' Frescobaldi,23,7903,Italy,WLE-292-282
+67,Tenuta di Castelbuono,16,6047,Italy,WLA-292-383
+68,Azienda Agricola Valentini,20,8897,Italy,WLE-282-394
+69,Mastroberardino,22,8552,Italy,WLF-282-393
+70,Librandi,15,9280,Italy,WLF-281-383
+71,Babylonstoren,24,3634,South Africa,WLA-284-504
+72,Jordan Wine Estate,23,6404,South Africa,WLB-392-392
+73,Delheim Wine Estate,22,4394,South Africa,WLC-290-593
+74,Nederberg,18,7227,South Africa,WLC-292-443
+75,Durbanville Hills,13,9807,South Africa,WLC-292-590
+76,Springfontein Wine Estate,22,7364,South Africa,WLB-382-123
+77,Vilafranca del Penedes,15,7422,Spain,WLB-282-293
+78,Marques de Riscal El Ciego,22,3718,Spain,WLC-282-383
+79,Dinastia Vivanco Briones,21,3689,Spain,WLC-282-909
+80,Marques de Murrieta Logrono,23,8838,Spain,WLF-294-392
+81,Bodegas Lopez de Heredia Vina Tondonia,15,8333,Spain,WLA-291-110

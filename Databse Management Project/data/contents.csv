@@ -1,0 +1,136 @@
+boardid,content,category
+CB_001,Brie cheese round,cheese
+CB_001,jelly bean,sweet
+CB_001,brownies,sweet
+CB_001,Ranch,dip
+CB_001,Bacon,meat
+CB_001,Salami,meat
+CB_001,Grapes,fruit
+CB_001,Apples,fruit
+CB_002,Strawberries,fruit
+CB_002,Blueberries,fruit
+CB_002,Walnuts,dry fruit
+CB_002,Almonds,dry fruit
+CB_002,Kiwi,fruit
+CB_002,Pineapple,fruit
+CB_002,Feta,cheese
+CB_002,Black olives,vegetable
+CB_003,Hummus,crackers
+CB_003,Triscuit,crackers
+CB_003,Strawberries,fruit
+CB_003,Blueberries,fruit
+CB_003,Cheddar cheese,cheese
+CB_003,Almonds,dry fruit
+CB_003,Apples,fruit
+CB_003,mozerella sticks or slices,cheese
+CB_004,Apples,fruit
+CB_004,Strawberries,fruit
+CB_004,Hummus,dip
+CB_004,Blueberries,fruit
+CB_004,Kiwi,fruit
+CB_004,Pineapple,fruit
+CB_004,Cherries,fruit
+CB_004,Brie cheese round,cheese
+CB_004,colby jack cheese,cheese
+CB_004,Walnuts,dry fruit
+CB_004,Almonds,dry fruit
+CB_004,Green olives,vegetable
+CB_005,Salami,meat
+CB_005,Bacon,meat
+CB_005,Turkey,meat
+CB_005,Ham,meat
+CB_005,Hummus,dip
+CB_005,Ranch,dip
+CB_005,brownies,sweet
+CB_005,gummy bears,sweet
+CB_005,Ritz,crackers
+CB_005,Pretzels,crackers
+CB_005,pepper jack cheese,cheese
+CB_005,Cashews,dry fruit
+CB_005,Peanuts,dry fruit
+CB_006,Bruschetta,crackers
+CB_006,Brie cheese round,cheese
+CB_006,pepper jack cheese,cheese
+CB_006,swiss cheese,cheese
+CB_006,Feta,cheese
+CB_006,mozerella sticks or slices,cheese
+CB_006,Black olives,vegetable
+CB_006,Green olives,vegetable
+CB_006,pepperoni,meat
+CB_006,shrimp,meat
+CB_006,guacomole ,dip
+CB_006,veggie dip,dip
+CB_007,Ritz,crackers
+CB_007,Pretzels,crackers
+CB_007,Croutons,crackers
+CB_007,Wheat Thins,crackers
+CB_007,cucumber,vegetable
+CB_007,celery,vegetable
+CB_007,Apples,fruit
+CB_007,cookies,sweet
+CB_007,Ranch,dip
+CB_007,balsamic vinegar,dip
+CB_007,Salami,meat
+CB_007,cream cheese,cheese
+CB_008,Cherry Tomatoes,vegetable
+CB_008,cucumber,vegetable
+CB_008,celery,vegetable
+CB_008,Peanut butter,dip
+CB_008,ranch,dip
+CB_008,Wheat Thins,crackers
+CB_008,Brie cheese round,cheese
+CB_008,mozerella sticks or slices,cheese
+CB_008,pepper jack cheese,cheese
+CB_008,salami,meat
+CB_008,Bacon,meat
+CB_008,summer sausage,meat
+CB_009,colby jack cheese,cheese
+CB_009,swiss cheese,cheese
+CB_009,Croutons,crackers
+CB_009,Pistachios,dry fruit
+CB_009,Pretzels,crackers
+CB_009,Almonds,dry fruit
+CB_009,Walnuts,dry fruit
+CB_009,veggie dip,dip
+CB_009,Hummus,dip
+CB_009,salami,meat
+CB_009,ham,meat
+CB_010,Bruschetta,crackers
+CB_010,pepper jack cheese,cheese
+CB_010,Apples,fruit
+CB_010,Walnuts,dry fruit
+CB_010,Hummus,dip
+CB_010,Turkey,meat
+CB_010,Ham,meat
+CB_010,Peanut butter,dip
+CB_010,Pineapple,fruit
+CB_010,Cherry Tomatoes,vegetable
+CB_010,swiss cheese,cheese
+CB_010,mozerella sticks or slices,cheese
+CB_011,Hummus,dip
+CB_011,ranch,dip
+CB_011,salsa,dip
+CB_011,Black olives,vegetable
+CB_011,Green olives,vegetable
+CB_011,cucumber,vegetable
+CB_011,Cherry Tomatoes,vegetable
+CB_011,mozerella sticks or slices,cheese
+CB_011,pepper jack cheese,cheese
+CB_011,Salami,meat
+CB_011,Bacon,meat
+CB_011,feta,cheese
+CB_011,Wheat Thins,crackers
+CB_011,Triscuit,crackers
+CB_012,jelly bean,sweet
+CB_012,brownies,sweet
+CB_012,Brie cheese round,cheese
+CB_012,pepper jack cheese,cheese
+CB_012,salsa,dip
+CB_012,ranch,dip
+CB_012,Strawberries,fruit
+CB_012,Blueberries,fruit
+CB_012,chocolate dip,dip
+CB_012,gummy bears,sweet
+CB_012,Cashews,dry fruit
+CB_012,Walnuts,dry fruit
+CB_000,None,None
